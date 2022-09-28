@@ -12,9 +12,9 @@ The database is given as a single `bzip2` compressed [ndjson](http://ndjson.org/
 
 The games and puzzles are joined by the game id (`id` in the `game` object). The matching `id` is extracted from a puzzle's `GameUrl` field. Note that `PuzzleId` and `id` are unrelated.
 
-The compressed file is ~4.4GB and the uncompressed file is ~30GB.
+The compressed database is ~4.4GB and the uncompressed database is ~30GB.
 
-This repo contains an uncompressed sample of 100 puzzles and a compressed sample of 50,000 puzzles.
+This repo also contains an uncompressed sample of 100 puzzles and a compressed sample of 50,000 puzzles.
 
 ## Example
 ```
