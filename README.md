@@ -1,5 +1,5 @@
 # Lichess Combined Puzzle-Game Database
-The Lichess puzzle database joined with complete game information.
+The Lichess puzzle database combined with game information.
 
 The complete dataset can be downloaded from here: [MEGA link.](https://mega.nz/file/ZW8HwTAL#VLC2l2nagO7aQmac6W2WN-V2otJHtxtH4ZMxEqGC2_U)
 
