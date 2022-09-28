@@ -25,6 +25,6 @@ This repo also contains an uncompressed sample of 100 puzzles and a compressed s
 
 This dataset retains the same Creative Commons Zero v1.0 Universal License as the original Lichess data.
 
-## A Note on the Database Hosting
+## A Note on the Dataset Hosting
 
 This dataset is just too large to host for free on services like Dropbox or Github, but too small to warrant paying for cloud storage (and, I suspect that if this dataset gets real use, it will eventually just be hosted directly by Lichess with regular updates). Github Large File Storage was also a non-starter, as a single clone of the repo would exhaust the entire month’s bandwidth. I did not want to store it on my personal Google Drive, and I do not have means to reliably self host it. MEGA has a free tier with 20GB storage and a user-based bandwidth limit, which is why I chose it. I am open to suggestions regarding better hosting solutions.
